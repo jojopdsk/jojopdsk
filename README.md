@@ -1,4 +1,8 @@
 ## Hi there 👋
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+jojopdsk.github.io
 
 <!--
 **jojopdsk/jojopdsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
